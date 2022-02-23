@@ -1,0 +1,21 @@
+{
+    "products":[
+        
+    {
+        "id" : 1,
+        "name" : "Caneta azul", 
+        "price" : 5.89
+    },
+    {
+        "id" : 2,
+        "name" : "Tenis Nike", 
+        "price" : 550.89
+        
+    },
+    {
+        "id" : 2,
+        "name" : "Mackbook", 
+        "price" : 12550.89
+    }
+   ]
+}
